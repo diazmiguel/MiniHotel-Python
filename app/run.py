@@ -1,6 +1,7 @@
 import app.tree as trees
+import random as randi
 def run():
-    print('Bienvenido')
+    print('Bienvenido al programa')
     arbolito = trees.AVLArbol()
     arbolito.insertar(15)
     arbolito.insertar(20)
@@ -21,7 +22,7 @@ def run():
     arbolito.eliminar(30)
     print('eliminado el 30')
     arbolito.mostrar()
-    print('fin')
+    print('finalizacion del programa')
 
 if __name__=='__main__':
     run()
