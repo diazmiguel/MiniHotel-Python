@@ -1,4 +1,4 @@
    Este proyecto consiste en utilizar una estructura de arbol
 binario para almacenar una lista de nombres de empleados.
- Arbol: Binario AVL (Parcialmente Balaceado)
+ Arbol: Binario AVL (Balaceadito)
  Operaciones: Insercion, eliminacion, recorrido, consulta
